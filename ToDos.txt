@@ -1,0 +1,5 @@
+To Dos:
+Generate output_file name based on the hospital in column location, date, and time.
+Suggest corrections
+Highlight cells
+Output findings to various file formats
